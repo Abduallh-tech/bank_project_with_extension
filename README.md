@@ -1,7 +1,9 @@
 ##Bank Management System
+
 A C++ console-based Bank Management System that manages clients, users, and banking transactions. It supports file-based data storage, authentication, and easy-to-use menu navigation.
 
 ##Features
+
 #📂 Client Management
 
 Show All clients
